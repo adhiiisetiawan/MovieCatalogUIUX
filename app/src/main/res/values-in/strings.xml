@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film (UI/UX)</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Pemberitahuan</string>
+    <string name="movies">Film</string>
+    <string name="tv_show">Televisi</string>
+    <string name="setting">Pengaturan</string>
+    <string name="share">Bagikan</string>
+    <string name="favorit">Sukai</string>
+    <string name="choose">Kamu Memilih</string>
+    <string name="gambar_cover_movies">Gambar Cover Movies</string>
+    <string name="runtime">Waktu</string>
+    <string name="language">Bahasa</string>
+    <string name="featured_crew">Penulis</string>
+    <string name="users_score">Peniliain User</string>
+    <string name="overview">Sinopsis</string>
+    <string name="bagi">Membagikan</string>
+    <string name="like">Memfavoritkan</string>
+</resources>
